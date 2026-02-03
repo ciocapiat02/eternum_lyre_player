@@ -1,6 +1,6 @@
 # Eternum lyre player
 Basically i was intrigued by a post on the r/eternumites in which a gui plays something very cool with the lyre in eternum 0.9.
-this is the post:
+this is the post: [guys i think the lyre minigame is broken](https://www.reddit.com/r/eternumites/comments/1qudmhe/guys_i_think_the_lyre_minigame_is_broken/)
 So i wanted to create a simple python script that will read a midi file and play it on the lyre.
 The easiest way was to make the script read the midi file and simulate a keypress, since in the game every note is mapped to a key, so, here it is.
 
